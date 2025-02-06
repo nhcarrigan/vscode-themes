@@ -1,0 +1,52 @@
+{
+	"name": "ocean-breeze",
+	"displayName": "Ocean Breeze",
+	"icon": "icon.png",
+	"version": "1.0.0",
+	"description": "A soothing VSCode theme inspired by the aqua hues of the ocean.",
+	"engines": {
+		"vscode": "^1.95.2"
+	},
+	"publisher": "nhcarrigan",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ocean Breeze",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ocean-breeze.json"
+			}
+		]
+	},
+	"scripts": {
+		"package": "vsce package --baseContentUrl https://codeberg.org/nhcarrigan/ocean-breeze/src/branch/main --baseImagesUrl https://codeberg.org/nhcarrigan/ocean-breeze/raw/branch/main"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "See license in LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://codeberg.org/nhcarrigan/ocean-breeze"
+	},
+	"url": "https://codeberg.org/nhcarrigan/ocean-breeze",
+	"bugs": {
+		"url": "https://codeberg.org/nhcarrigan/ocean-breeze/issues"
+	},
+	"homepage": "https://nhcarrigan.com",
+	"__metadata": {
+		"id": "4ef14004-37a0-4a6d-8b74-a05120262565",
+		"publisherId": "ef44e68f-3bb5-42cc-966c-4c83cab35159",
+		"publisherDisplayName": "nhcarrigan",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1732404250372,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 898506
+	}
+}
