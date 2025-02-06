@@ -64,7 +64,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#7fedd6",
+        "foreground": "#113c33",
         "fontStyle": "italic"
       }
     },
@@ -91,7 +91,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#ffd93d"
+        "foreground": "#477f72"
       }
     },
     {
@@ -117,7 +117,7 @@
         "punctuation.decorator"
       ],
       "settings": {
-        "foreground": "#ff92df"
+        "foreground": "#6eafa1"
       }
     },
     {
@@ -130,7 +130,7 @@
         "meta.function.dart"
       ],
       "settings": {
-        "foreground": "#6bc5ff"
+        "foreground": "#82c8b9"
       }
     },
     {
@@ -158,13 +158,13 @@
         "punctuation.definition.annotation"
       ],
       "settings": {
-        "foreground": "#ffe074"
+        "foreground": "#477f72"
       }
     },
     {
       "scope": ["entity.name.tag", "punctuation.definition.tag"],
       "settings": {
-        "foreground": "#ff92df"
+        "foreground": "#6eafa1"
       }
     },
     {
@@ -195,13 +195,13 @@
     {
       "scope": ["string.regexp", "constant.character.escape.regex"],
       "settings": {
-        "foreground": "#ff8585"
+        "foreground": "#7fedd6"
       }
     },
     {
       "scope": ["markup.heading", "entity.name.section"],
       "settings": {
-        "foreground": "#6bc5ff",
+        "foreground": "#82c8b9",
         "fontStyle": "bold"
       }
     },
@@ -243,7 +243,7 @@
         "keyword.operator.logical"
       ],
       "settings": {
-        "foreground": "#ff92df"
+        "foreground": "#6eafa1"
       }
     },
     {
@@ -294,7 +294,7 @@
         "source.rust keyword.operator.logical"
       ],
       "settings": {
-        "foreground": "#ff92df"
+        "foreground": "#6eafa1"
       }
     },
     {
@@ -303,7 +303,7 @@
         "source.python support.function.builtin.python"
       ],
       "settings": {
-        "foreground": "#6bc5ff"
+        "foreground": "#82c8b9"
       }
     },
     {
@@ -331,7 +331,7 @@
         "source.prisma keyword.type"
       ],
       "settings": {
-        "foreground": "#ff92df"
+        "foreground": "#6eafa1"
       }
     },
     {
@@ -346,7 +346,7 @@
     {
       "scope": ["source.sql keyword.other", "source.sql storage.type"],
       "settings": {
-        "foreground": "#ff92df"
+        "foreground": "#6eafa1"
       }
     },
     {
@@ -366,7 +366,7 @@
         "meta.decorator.angular"
       ],
       "settings": {
-        "foreground": "#ffe074"
+        "foreground": "#477f72"
       }
     }
   ]

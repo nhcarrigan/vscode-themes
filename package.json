@@ -5,7 +5,7 @@
 	"version": "1.0.0",
 	"description": "A soothing VSCode theme inspired by the aqua hues of the ocean.",
 	"engines": {
-		"vscode": "^1.95.2"
+		"vscode": "^1.96.4"
 	},
 	"publisher": "nhcarrigan",
 	"categories": [
