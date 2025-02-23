@@ -2,7 +2,7 @@
 	"name": "ocean-breeze",
 	"displayName": "Ocean Breeze",
 	"icon": "icon.png",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "A soothing VSCode theme inspired by the aqua hues of the ocean.",
 	"engines": {
 		"vscode": "^1.96.4"
