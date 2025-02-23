@@ -64,7 +64,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#113c33",
+        "foreground": "#35675c",
         "fontStyle": "italic"
       }
     },
