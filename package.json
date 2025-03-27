@@ -22,6 +22,11 @@
 				"label": "Sakura Dreams",
 				"uiTheme": "vs",
 				"path": "./themes/sakura-dreams.json"
+			},
+			{
+				"label": "Sakura Dreams (Dark)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sakura-dreams-dark.json"
 			}
 		]
 	},

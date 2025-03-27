@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="naomis-themes" Version="1.0.0" Publisher="nhcarrigan" />
+			<Identity Language="en-US" Id="naomis-themes" Version="2.0.0" Publisher="nhcarrigan" />
 			<DisplayName>Naomi's Themes</DisplayName>
 			<Description xml:space="preserve">Various themes Naomi has designed.</Description>
 			<Tags>theme,color-theme,__web_extension</Tags>
@@ -18,10 +18,10 @@
 				
 				
 				
-				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://codeberg.org/nhcarrigan/ocean-breeze" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://codeberg.org/nhcarrigan/ocean-breeze" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Repository" Value="https://codeberg.org/nhcarrigan/ocean-breeze" />
-				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://codeberg.org/nhcarrigan/ocean-breeze/issues" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://git.nhcarrigan.com/nhcarrigan/vscode-themes" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://git.nhcarrigan.com/nhcarrigan/vscode-themes" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Repository" Value="https://git.nhcarrigan.com/nhcarrigan/vscode-themes" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://git.nhcarrigan.com/nhcarrigan/vscode-themes/issues" />
 				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://nhcarrigan.com" />
 				
 				
