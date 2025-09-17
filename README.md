@@ -1,6 +1,6 @@
-# Ocean Breeze
+# Naomi's VSCode Themes
 
-This is a custom VSCode theme inspired by the aqua hues of the ocean, and built upon Naomi's custom design style.
+This is a collection of various VSCode themes Naomi has written to suit her ever-changing whims.
 
 ## Feedback and Bugs
 
