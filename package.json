@@ -32,6 +32,11 @@
         "label": "Trans Pride",
         "uiTheme": "vs",
         "path": "./themes/trans-pride.json"
+      },
+      {
+        "label": "Witchy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/witchy-dark.json"
       }
     ]
   },
